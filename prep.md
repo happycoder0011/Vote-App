@@ -17,7 +17,7 @@ Admin side
 - Profile
 - Create Polls
     - poll question
-    - poll options
+    - poll options array with count of vote
     - poll counts for each option
     
 
